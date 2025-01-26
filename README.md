@@ -20,4 +20,4 @@ You can play the live version [here](https://your-demo-link.com).
 ## Setup and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/puzzle-photo.git
+  https://github.com/Saurabh-1435/Puzzle-.git
